@@ -58,4 +58,6 @@ int main(){
 
   printf(_("\nLa solución es:"));
   printf("%d\n", sol);
+  printf(_("\nEsperamos verte pronto!!"));
+
 }
